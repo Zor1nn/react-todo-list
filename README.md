@@ -1,3 +1,3 @@
 # To do list React + Vite
 
-This list is part of my jorney learning react and next.js.
+This list is part of my journey learning react and next.js.
